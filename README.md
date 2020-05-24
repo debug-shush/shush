@@ -1,2 +1,2 @@
 # shush
-This is Shush's working space
+This is Shrushti's work space.
